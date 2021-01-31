@@ -1,0 +1,116 @@
+[
+    {
+        "CÓDIGO":"1",
+        "TÍTULO":"RACISMO ESTRUTURAL",
+        "AUTOR":"SILVIO ALMEIDA",
+        "ANO":"2019",
+        "QUANTIDADE":2,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"CIÊNCIAS SOCIAIS",
+        "ALUGADO":"SIM",
+        "QUANTIDADE ALUGADOS":1
+    },
+    {
+        "CÓDIGO":"2",
+        "TÍTULO":"INTRODUÇÃO À PROGRAMAÇÃO EM PYTHON",
+        "AUTOR":"LJUBOMIR PERKOVIC",
+        "ANO":"2016",
+        "QUANTIDADE":2,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"PROGRAMAÇÃO",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"3",
+        "TÍTULO":"A MENINA QUE ROUBAVA LIVROS",
+        "AUTOR":"MARKUS ZUSAK",
+        "ANO":"2007",
+        "QUANTIDADE":1,
+        "RESERVADO":"SIM",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"HISTÓRIA"
+    },
+    {
+        "CÓDIGO":"4",
+        "TÍTULO":"COSMOS",
+        "AUTOR":"CARL SAGAN",
+        "ANO":"2017",
+        "QUANTIDADE":2,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"CIÊNCIA",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"5",
+        "TÍTULO":"ATLAS DE ANATOMIA HUMANA",
+        "AUTOR":"NETTER, FRANK H.",
+        "ANO":"2019",
+        "QUANTIDADE":2,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"ANATOMIA",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"6",
+        "TÍTULO":"A HUMANIDADE EM RISCO",
+        "AUTOR":"UJVARI, STEFAZ CUNHA",
+        "ANO":"2011",
+        "QUANTIDADE":2,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"PANDEMIA",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"7",
+        "TÍTULO":"INTRODUÇÃO AO ESTUDO DE DIREITO",
+        "AUTOR":"MARTINS, SERGIO PINTO",
+        "ANO":"2018",
+        "QUANTIDADE":3,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"DIREITO",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"8",
+        "TÍTULO":"O UNIVERSO QUÂNTICO - TUDO QUE PODE ACONTECER REALMENTE ACONTECE",
+        "AUTOR":"COX, BRIAN",
+        "ANO":"2016",
+        "QUANTIDADE":5,
+        "RESERVADO":"NÃO",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"CIÊNCIA",
+        "ALUGADO":"NÃO",
+        "QUANTIDADE ALUGADOS":0
+    },
+    {
+        "CÓDIGO":"9",
+        "TÍTULO":"LINGUA SINAIS BRASILEIRA",
+        "AUTOR":"FERNANDO CÉSAR CAPOVILLA",
+        "ANO":"2019",
+        "QUANTIDADE":2,
+        "RESERVADO":"SIM",
+        "CATEGORIA":"ENCICLOPÉDIA",
+        "TEMÁTICA":"CULTURA"
+    },
+    {
+        "CÓDIGO":"10",
+        "TÍTULO":"A NOITE ESCURA E MAIS EU",
+        "AUTOR":"TELLES, LYGIA FAGUNDES",
+        "ANO":"1995",
+        "QUANTIDADE":1,
+        "RESERVADO":"SIM",
+        "CATEGORIA":"LIVRO",
+        "TEMÁTICA":"LITERATURA"
+    }
+]
